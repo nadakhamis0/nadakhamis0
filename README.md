@@ -64,7 +64,7 @@ I have strong experience in API testing using Postman, and I integrate automated
 - Generated execution reports using **Allure Report**
 
 ---
-## 🤝 Let’s Connect
+## 🤝 Connect 
 
 <p>
   <a href="https://www.linkedin.com/in/nada-khamis/" target="_blank">
@@ -76,5 +76,4 @@ I have strong experience in API testing using Postman, and I integrate automated
   </a>
 </p>
 
----
 
