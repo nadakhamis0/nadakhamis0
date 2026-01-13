@@ -59,13 +59,13 @@ I have strong experience in API testing using Postman, and I integrate automated
 ---
 ## 🤝 Let’s Connect
 
-<p><a href="https://www.linkedin.com/in/nada-khamis/">
+<a href="https://www.linkedin.com/in/nada-khamis/">
   <img src="https://img.shields.io/badge/LinkedIn-Nada%20Khamis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:nadakhamis803@gmail.com">
   <img src="https://img.shields.io/badge/Email-nadakhamis803@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a></p>
+</a>
 
 ---
 
