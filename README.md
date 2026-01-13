@@ -1,8 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Nada Khamis</h1>
 
 <p align="center">
-  <b>Software Testing Engineer | QA | ISTQB FL Certified</b>
-  <b>📍 Alexandria, Egypt   🎓 Software Testing Track Graduate | ITI | DEPI </b>
+  <b>🎓 Software Testing Track Graduate | ITI | DEPI      📍 Alexandria, Egypt </b>
 </p>
 
 <p align="center">
@@ -54,19 +53,12 @@ I have strong experience in API testing using Postman, and I integrate automated
 ## 🚀 Featured Projects
 
 ### 🔹 Web Automation Testing Framework
-<p>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium"/>
-  <img src="https://img.shields.io/badge/TestNG-FF6F00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Page%20Object%20Model-6A0DAD?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins"/>
-</p>
 
 - Built an automation framework using **Java, Selenium WebDriver, and TestNG**
 - Implemented **Page Object Model (POM)** for maintainable test structure
 - Automated regression and smoke test suites
 - Integrated test execution with **Jenkins**
-- Generated execution reports using **Allure**
+- Generated execution reports using **Allure Report**
 
 ---
 ## 🤝 Let’s Connect
