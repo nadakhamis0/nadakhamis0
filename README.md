@@ -4,9 +4,6 @@
   <b>🎓 Software Testing Track Graduate | ITI | DEPI      📍 Alexandria, Egypt </b>
 </p>
 
-دد
-<img src="https://github-readme-stats.vercel.app/api?username=nadakhamis0&show_icons=true&theme=tokyonight" />
-
 ---
 
 ## 🔹 About Me
