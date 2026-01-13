@@ -36,9 +36,9 @@ I have strong experience in API testing using Postman, and I integrate automated
 <p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </p>
 
 ### Testing
-- Manual Testing  
-- Automation Testing  
-- API Testing   
+<img src="https://img.shields.io/badge/Manual%20Testing-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation%20Testing-28A745?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Testing-FF6F00?style=for-the-badge"/>
 
 ### 🛠 Tools & Frameworks
 - Selenium WebDriver  
@@ -48,6 +48,15 @@ I have strong experience in API testing using Postman, and I integrate automated
 - Git & GitHub  
 - Jenkins  
 <p> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium"/> <img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven"/> <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman"/> <img src="https://img.shields.io/badge/REST--Assured-009688?style=for-the-badge"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins"/> <img src="https://img.shields.io/badge/Allure-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> </p>
+
+<img src="https://img.shields.io/badge/Selenium WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/POM-6A0DAD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+
 ---
 
 ## 🤝 Let’s Connect
@@ -60,6 +69,14 @@ I have strong experience in API testing using Postman, and I integrate automated
     <img src="https://img.shields.io/badge/Email-Contact-333?style=for-the-badge" />
   </a>
 </p>
+
+<a href="https://www.linkedin.com/in/nada-khamis/">
+  <img src="https://img.shields.io/badge/LinkedIn-Nada%20Khamis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nadakhamis803@gmail.com">
+  <img src="https://img.shields.io/badge/Email-nadakhamis803@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 ---
 
