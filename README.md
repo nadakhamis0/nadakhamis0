@@ -1,7 +1,8 @@
 <h1 align="center">Hey there 👋, I'm Nada Khamis</h1>
 
 <p align="center">
-  <b>Junior Software Tester | Quality-Oriented Mindset | ISTQB Certified</b>
+  <b>Software Testing Engineer | QA | ISTQB FL Certified</b>
+  <b>📍 Alexandria, Egypt   🎓 Software Testing Track Graduate | ITI | DEPI </b>
 </p>
 
 <p align="center">
@@ -10,12 +11,13 @@
 
 ---
 
-## 👩‍🔬 My Testing Journey
+## 🔹 About Me
 
-I started my career with a strong interest in **software quality** and how small details can make a big difference in user experience.  
-Through my training at **DEPI** and **ITI**, I developed solid hands-on experience in **manual testing, API testing, and test automation**.
-
+💻 I'm passionate about delivering high-quality software and how small details can make a big difference in user experience.
+Through my training at **DEPI** and **ITI**, I developed solid hands-on experience in manual testing, API testing, and test automation.
 I enjoy analyzing requirements, breaking scenarios into test cases, and making sure software works as expected — not just technically, but from a real user’s perspective.
+I have hands-on experience in designing and executing test cases, defect tracking, and building automated test scripts using Java, Selenium, TestNG, and Maven.
+I have strong experience in API testing using Postman, and I integrate automated tests into CI/CD pipelines using Jenkins and Allure reporting.
 
 ---
 
