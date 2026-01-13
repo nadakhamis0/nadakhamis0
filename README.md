@@ -59,13 +59,13 @@ I have strong experience in API testing using Postman, and I integrate automated
 ---
 ## 🤝 Let’s Connect
 
-<p align="center" style="display:flex; justify-content:center; gap:20px;">
+<p>
   <a href="https://www.linkedin.com/in/nada-khamis/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
 
   <a href="mailto:nadakhamis803@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
   </a>
 </p>
 
