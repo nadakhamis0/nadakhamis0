@@ -58,14 +58,17 @@ I have strong experience in API testing using Postman, and I integrate automated
 
 ---
 ## 🤝 Let’s Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/nada-khamis/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/nada-khamis/">
-  <img src="https://img.shields.io/badge/LinkedIn-Nada%20Khamis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  &nbsp;&nbsp;&nbsp;
 
-<a href="mailto:nadakhamis803@gmail.com">
-  <img src="https://img.shields.io/badge/Email-nadakhamis803@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:nadakhamis803@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48"/>
+  </a>
+</p>
 
 ---
 
