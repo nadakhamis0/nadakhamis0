@@ -52,30 +52,10 @@ I have strong experience in API testing using Postman, and I integrate automated
 
 ---
 
-## 📁 Selected Work
-
-🔹 **Swag Labs Automation Testing**  
-Automated critical user flows using Selenium, Java, and TestNG following the Page Object Model.
-
-🔹 **API Testing Project**  
-Validated REST APIs using Postman, dynamic variables, and automated assertions.
-
-🔹 **Manual Testing Practice**  
-Test case writing, execution, and bug reporting based on real application flows.
-
----
-
-## 🌱 Currently Improving
-- Writing cleaner and scalable automation code  
-- CI/CD integration for test automation  
-- Deepening API automation knowledge  
-
----
-
 ## 🤝 Let’s Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINK">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/nada-khamis/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-6e57e0?style=for-the-badge" />
   </a>
   <a href="mailto:YOUR_EMAIL">
