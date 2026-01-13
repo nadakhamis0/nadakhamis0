@@ -13,7 +13,7 @@
 
 ## 🔹 About Me
 
-💻 I'm passionate about delivering high-quality software and how small details can make a big difference in user experience.
+I'm passionate about delivering high-quality software and how small details can make a big difference in user experience.
 Through my training at **DEPI** and **ITI**, I developed solid hands-on experience in manual testing, API testing, and test automation.
 I enjoy analyzing requirements, breaking scenarios into test cases, and making sure software works as expected — not just technically, but from a real user’s perspective.
 I have hands-on experience in designing and executing test cases, defect tracking, and building automated test scripts using Java, Selenium, TestNG, and Maven.
@@ -21,7 +21,7 @@ I have strong experience in API testing using Postman, and I integrate automated
 
 ---
 
-## 🧪 What I Do Best
+## 💻 What I Do Best
 
 - Analyze requirements and identify test scenarios  
 - Design and execute manual test cases  
@@ -40,14 +40,14 @@ I have strong experience in API testing using Postman, and I integrate automated
 - Automation Testing  
 - API Testing   
 
-### Tools & Technologies
+### 🛠 Tools & Frameworks
 - Selenium WebDriver  
 - TestNG  
 - Postman  
 - Jira  
 - Git & GitHub  
 - Jenkins  
-
+<p> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium"/> <img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven"/> <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman"/> <img src="https://img.shields.io/badge/REST--Assured-009688?style=for-the-badge"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins"/> <img src="https://img.shields.io/badge/Allure-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> </p>
 ---
 
 ## 🤝 Let’s Connect
