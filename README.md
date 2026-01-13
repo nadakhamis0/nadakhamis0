@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nadakhamis0&label=Profile%20views&color=6e57e0&style=flat" />
+<img src="https://github-readme-stats.vercel.app/api?username=nadakhamis0&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
