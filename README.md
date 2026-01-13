@@ -32,15 +32,13 @@ I have strong experience in API testing using Postman, and I integrate automated
 ---
 
 ## 🛠️ Skills Snapshot
+### Programming Language
+<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </p>
 
 ### Testing
 - Manual Testing  
 - Automation Testing  
-- API Testing  
-
-### Languages
-- Java  
-- SQL  
+- API Testing   
 
 ### Tools & Technologies
 - Selenium WebDriver  
@@ -55,15 +53,13 @@ I have strong experience in API testing using Postman, and I integrate automated
 ## 🤝 Let’s Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/nada-khamis/">
+  <a href="https://www.linkedin.com/in/nada-khamis/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-6e57e0?style=for-the-badge" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:nadakhamis803@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-333?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-💡 *I believe good testing is not about finding bugs only —  
-it’s about building confidence in the product.*
