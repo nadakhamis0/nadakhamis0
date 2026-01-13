@@ -36,9 +36,9 @@ I have strong experience in API testing using Postman, and I integrate automated
 <p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </p>
 
 ### Testing
-<img src="https://img.shields.io/badge/Manual%20Testing-0A66C2?style=for-the-badge"/>
+<p><img src="https://img.shields.io/badge/Manual%20Testing-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Automation%20Testing-28A745?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API%20Testing-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Testing-FF6F00?style=for-the-badge"/></p>
 
 ### 🛠 Tools & Frameworks
 
@@ -51,7 +51,24 @@ I have strong experience in API testing using Postman, and I integrate automated
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/></p>
 
 ---
+## 🚀 Featured Projects
 
+### 🔹 Web Automation Testing Framework
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium"/>
+  <img src="https://img.shields.io/badge/TestNG-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Page%20Object%20Model-6A0DAD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins"/>
+</p>
+
+- Built an automation framework using **Java, Selenium WebDriver, and TestNG**
+- Implemented **Page Object Model (POM)** for maintainable test structure
+- Automated regression and smoke test suites
+- Integrated test execution with **Jenkins**
+- Generated execution reports using **Allure**
+
+---
 ## 🤝 Let’s Connect
 
 <p><a href="https://www.linkedin.com/in/nada-khamis/">
